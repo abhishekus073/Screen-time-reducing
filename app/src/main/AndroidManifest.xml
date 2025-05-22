@@ -31,7 +31,7 @@
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/app_icon"
-        android:label="@string/app_name"
+        android:label="Screen time reducing "
         android:largeHeap="true"
         android:roundIcon="@mipmap/app_icon"
         android:supportsRtl="true">

@@ -10,13 +10,13 @@
     tools:context=".Activity.DrawOnTopScreenActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="314dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:layout_margin="25dp"
+        android:text="Phone blocked by Screen time reducing "
         android:textColor="@color/black"
         android:textSize="25dp"
-        android:text="Phone blocked by MindMaster"
-        android:layout_gravity="center"
         tools:ignore="HardcodedText,SpUsage" />
 
     <com.airbnb.lottie.LottieAnimationView

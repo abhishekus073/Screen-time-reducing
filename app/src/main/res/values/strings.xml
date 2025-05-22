@@ -65,4 +65,5 @@
     </string>
 
     <string name="accessibility_service_description">This app requires this setting to detect the keywords and websites in the browser.</string>
+    <string name="screen_time_reducing">Screen time reducing</string>
 </resources>
